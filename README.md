@@ -1,2 +1,2 @@
 # GoTouchGrass
-A slack bot that logs outdoor activity
+A Slack bot that logs runs
